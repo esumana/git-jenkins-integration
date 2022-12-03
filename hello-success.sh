@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo "SUPER SUCCESS!!!!!!!!!!"
 echo "2nd SUPER SUCCESS!!!!!!!!!!"
